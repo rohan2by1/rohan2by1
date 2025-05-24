@@ -2,10 +2,6 @@
 <h3 align="center">a student</h3>
 
 - 🌱 I’m currently learning **Computer Science & Engineering**
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@rohan2by1/30-nites-of-code)  
-  ![@rohan2by1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rohan2by1)
   
 - 📫 How to reach me **rohan2by1@gmail.com**
 
